@@ -282,6 +282,7 @@ function! s:setup_abbreviations()
    
   " Units {{{
   Prefixab  \\ rad         ᶜ
+  Prefixab  \\ deg         °
   " }}}
 
 
