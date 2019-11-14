@@ -278,6 +278,12 @@ function! s:setup_abbreviations()
   Prefixab  \\ nsubseteq   ⊈
   Prefixab  \\ nsupseteq   ⊉
   " }}}
+   
+   
+  " Units {{{
+  Prefixab  \\ rad         ᶜ
+  " }}}
+
 
   " Lattices {{{
   Prefixab  \\ sqsubset    ⊏
